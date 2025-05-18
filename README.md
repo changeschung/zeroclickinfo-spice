@@ -7,4 +7,4 @@ This repository contains all the Spice instant answers. If you are developing a 
 ------
 
 ### Spice Instant Answer Example
-![quixey example](https://s3.amazonaws.com/ddg-assets/docs/spice_example.png)
+![quixey example](https://s3.amazonaws.com/ddg-assets/docs/spice_example.png) why but why...
